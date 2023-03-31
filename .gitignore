@@ -33,4 +33,4 @@ jspm_packages
 .results.json
 
 # Ignore ESLint files
-.eslintcache
+.eslintcache#
